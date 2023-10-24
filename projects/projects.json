@@ -1,0 +1,95 @@
+[ 
+    
+    
+    {
+        "id": 1,
+        "name": "Project Website",
+        "desc": "I attempted to create my project portfolio website, which showcases all Project about me.",
+        "image": "https://raw.githubusercontent.com/RitzyKingS/Portfolio_Website/main/assests/images/projects/Project%201.png",
+        "links": {
+            "view": "https://ritzykings.github.io/Portfolio/",
+            "code": "https://github.com/RitzyKingS/Portfolio"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Portfolio Website",
+        "desc": "Personal portfolio website. Don't need much info about it, just scroll down. You're here only!",
+        "image": "https://raw.githubusercontent.com/RitzyKingS/Portfolio_Website/main/assests/images/projects/portfolio1.png",
+        "links": {
+            "view": "/Ritik-Portfolio/index.html",
+            "code": "https://github.com/RitzyKingS/Portfolio_Website/tree/main"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Spotify Live Dashboard",
+        "desc": "This advanced Power BI project offers a comprehensive analysis enriched with ChatGPT, custom visuals, and Python scripting.",
+        "image": "https://raw.githubusercontent.com/RitzyKingS/Portfolio_Website/main/assests/images/projects/Projec%202.png",
+        "links": {
+            "view": "https://app.powerbi.com/view?r=eyJrIjoiMTAyYmYzNDQtNTA4ZS00NzkxLTllZmItZDU4NjI1OTk1MWViIiwidCI6IjkzNjc3MWVmLTQ5ZTktNDU3MC1iMWFmLTUyYzY4NzI3MzQ3NyJ9",
+            "code": "https://github.com/RitzyKingS/Data_Science_Project/tree/main/Spotify%20Dashboard"
+        }
+    },
+    {
+        "id": 4,
+        "name": "T20 Live Dashboard",
+        "desc": "This project involves analyzing T20 World Cup cricket data through web scraping, Python and pandas for data processing, and Power BI for creating visualizations.",
+        "image": "https://raw.githubusercontent.com/RitzyKingS/Portfolio_Website/main/assests/images/projects/Project%203.png",
+        "links": {
+            "view": "https://app.powerbi.com/view?r=eyJrIjoiNDcyY2I5ZDQtMmFmNi00NDhmLTk5MDItOTBlNjg4MmRmOGI4IiwidCI6IjkzNjc3MWVmLTQ5ZTktNDU3MC1iMWFmLTUyYzY4NzI3MzQ3NyJ9&embedImagePlaceholder=true",
+            "code": "https://github.com/RitzyKingS/Data_Science_Project/tree/main/Data%20Analytics%20Project%20T20%20World%20Cup%20Cricket%20Analysis"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Sneaker Website",
+        "desc": "Welcome to the Sneaker Website project, a dynamic work in progress! This project uses HTML, CSS, and JavaScript to create an immersive website showcasing a collection of sneakers.",
+        "image": "https://raw.githubusercontent.com/RitzyKingS/Portfolio_Website/main/assests/images/projects/Project%204.png",
+        "links": {
+            "view": "https://ritzykings.github.io/Sneaker_Website/index.html",
+            "code": "https://github.com/RitzyKingS/Sneaker_Website"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Coming Soon",
+        "desc": "Project Under Construction",
+        "image": "https://raw.githubusercontent.com/RitzyKingS/Portfolio_Website/main/assests/images/projects/Coming%20Soon.jpg",
+        "links": {
+            "view": "#",
+            "code": "#"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Coming Soon",
+        "desc": "Project Under Construction",
+        "image": "https://raw.githubusercontent.com/RitzyKingS/Portfolio_Website/main/assests/images/projects/Coming%20Soon.jpg",
+        "links": {
+            "view": "#",
+            "code": "#"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Coming Soon",
+        "desc": "Project Under Construction",
+        "image": "https://raw.githubusercontent.com/RitzyKingS/Portfolio_Website/main/assests/images/projects/Coming%20Soon.jpg",
+        "links": {
+            "view": "#",
+            "code": "#"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Coming Soon",
+        "desc": "Project Under Construction",
+        "image": "https://raw.githubusercontent.com/RitzyKingS/Portfolio_Website/main/assests/images/projects/Coming%20Soon.jpg",
+        "links": {
+            "view": "#",
+            "code": "#"
+        }
+    }
+    
+]
