@@ -4,32 +4,12 @@
     "icon": "https://img.icons8.com/?size=48&id=l75OEUJkPAk4&format=png"
   },
   {
-    "name": "Java",
-    "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
-  },
-  {
-    "name": "HTML5",
-    "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
-  },
-  {
-    "name": "CSS3",
-    "icon": "https://img.icons8.com/color/48/000000/css3.png"
-  },
-  {
-    "name": "JavaScript",
-    "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
-  },
-  {
     "name": "SQL & Databases",
     "icon": "https://img.icons8.com/?size=48&id=9nLaR5KFGjN0&format=png"
   },
   {
-    "name": "Microsoft Office",
-    "icon": "https://img.icons8.com/?size=48&id=vIbsCQXkSp6l&format=png"
-  },
-  {
-    "name": "MS-Excel",
-    "icon": "https://img.icons8.com/?size=48&id=UECmBSgBOvPT&format=png"
+    "name": "Data Visualization",
+    "icon": "https://img.icons8.com/?size=100&id=RjNMJdCSJoes&format=png"
   },
   {
     "name": "Power BI",
@@ -40,61 +20,32 @@
     "icon": "https://img.icons8.com/?size=48&id=9Kvi1p1F0tUo&format=png"
   },
   {
-    "name": "C++",
-    "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+    "name": "MS-Excel",
+    "icon": "https://img.icons8.com/?size=48&id=UECmBSgBOvPT&format=png"
   },
   {
-    "name": "C Programming",
-    "icon": "https://img.icons8.com/color/48/000000/c.png"
+    "name": "Google Sheets",
+    "icon": "https://img.icons8.com/color/48/000000/google-sheets.png"
+  },
+  {
+    "name": "Microsoft Office",
+    "icon": "https://img.icons8.com/?size=48&id=vIbsCQXkSp6l&format=png"
+  },
+  {
+    "name": "Data Cleaning",
+    "icon": "https://img.icons8.com/?size=100&id=9WY2JwY2HpWy&format=png"
+  },
+  {
+    "name": "Data Analysis and Reporting",
+    "icon": "https://img.icons8.com/?size=80&id=LTkWsqk5lflT&format=png"
+  },
+  {
+    "name": "Statistical Analysis",
+    "icon": "https://img.icons8.com/?size=80&id=114901&format=png"
   },
   {
     "name": "GitHub",
     "icon": "https://img.icons8.com/?size=80&id=118553&format=png"
-  },
-  {
-    "name": "Testing & Debugging",
-    "icon": "https://img.icons8.com/?size=80&id=uGmEZPJ0qW8V&format=png"
-  },
-  {
-    "name": "ML & AI",
-    "icon": "https://img.icons8.com/?size=80&id=97624&format=png"
-  },
-  {
-    "name": "statistics",
-    "icon": "https://img.icons8.com/?size=80&id=114901&format=png"
-  },
-  {
-    "name": "Analytical Thinking",
-    "icon": "https://img.icons8.com/?size=80&id=pyn54MIpiKV8&format=png"
-  },
-  {
-    "name": "Algorithms and Data Structures",
-    "icon": "https://img.icons8.com/?size=80&id=rM03addOSa95&format=png"
-  },
-  {
-    "name": "Data analysis and reporting",
-    "icon": "https://img.icons8.com/?size=80&id=LTkWsqk5lflT&format=png"
-  },
-  {
-    "name": "Data Mining",
-    "icon": "https://img.icons8.com/?size=80&id=0vd6ethwJHAw&format=png"
-  },
-  {
-    "name": "Documentation",
-    "icon": "https://img.icons8.com/?size=80&id=KKXxv4mWe2LL&format=png"
-  },
-  {
-    "name": "problem-solving & Communication",
-    "icon": "https://img.icons8.com/?size=48&id=rVSB3GaDDURu&format=png"
-  },
-
-  {
-    "name": "Project Management",
-    "icon": "https://img.icons8.com/?size=48&id=104233&format=png"
-  },
-  {
-    "name": "Team Work",
-    "icon": "https://img.icons8.com/color/48/000000/teamwork.png"
   },
   {
     "name": "Critical Thinking",
